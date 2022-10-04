@@ -130,3 +130,11 @@ dmypy.json
 
 # VSCode
 .vscode
+
+# PyCharm
+.idea
+
+# Static files
+*.zip
+*.jpg
+*.jpeg
